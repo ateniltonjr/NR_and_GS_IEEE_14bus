@@ -12,7 +12,7 @@ Clone o repositório:
 
 bash
 
-git clone 
+git clone https://github.com/ateniltonjr/SEP.git
 
 cd powerflow-solver
 
