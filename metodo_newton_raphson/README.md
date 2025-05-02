@@ -26,7 +26,7 @@ fluxo_carga_nr/
 
 ## ⚙️ Instalação
 
-1. Clone o repositório:
+Clone o repositório:
 ```bash
 git clone https://github.com/ateniltonjr/SEP.git
 
