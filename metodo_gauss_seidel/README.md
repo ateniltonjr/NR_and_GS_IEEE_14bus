@@ -86,6 +86,7 @@ python main.py
 ### Tensões nas barras:
 
 Barra 1: 1.000+0.000j pu | 1.000 pu ∠ 0.000°
+
 Barra 2: 0.982-0.035j pu | 0.983 pu ∠ -2.050°
 
 ...
