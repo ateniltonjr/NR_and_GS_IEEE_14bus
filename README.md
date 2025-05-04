@@ -25,7 +25,7 @@ Visualização de resultados
 Entrada/Saída via arquivos Excel
 
 ## 📂 Estrutura do Projeto
-SEP/
+NR_and_GS_IEEE_14bus
 
     gauss_seidel/      # Implementação do método GS
 
@@ -36,9 +36,9 @@ SEP/
 ## 🔧 Requisitos & Instalação
 bash
 
-git clone https://github.com/ateniltonjr/SEP.git
+git clone https://github.com/ateniltonjr/NR_and_GS_IEEE_14bus.git
 
-cd SEP
+cd NR_and_GS_IEEE_14bus
 
 pip install -r requirements.txt
 
