@@ -8,11 +8,9 @@
 
 
 ## 🌟 Visão Geral
-Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando dois métodos numéricos para cálculo de fluxo de carga:
-
-Método Gauss-Seidel (implementado)
-
-Método Newton-Raphson (implementado)
+  Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando dois métodos numéricos para cálculo de fluxo de carga:
+  Método Gauss-Seidel (implementado)
+  Método Newton-Raphson (implementado)
 
 ## 🚀 Funcionalidades
 - Cálculo de tensões nas barras (PU e ângulo)
