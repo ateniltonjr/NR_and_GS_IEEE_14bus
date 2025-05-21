@@ -1,17 +1,18 @@
 ![alt text](logo_ufob.png)
 # Power Flow Solver (Gauss-Seidel & Newton-Raphson)
 
+## 👥 Autores
+```atenilton Santos de Souza Júnior```
+
+```GUSTAVO HENRIQUE DA HORTA LEAO PEREIRA```
+
+
 ## 🌟 Visão Geral
 Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando dois métodos numéricos para cálculo de fluxo de carga:
 
 Método Gauss-Seidel (implementado)
 
 Método Newton-Raphson (implementado)
-
-## 👥 Autores
-[atenilton Santos de Souza Júnior](#)
-
-[GUSTAVO HENRIQUE DA HORTA LEAO PEREIRA](#)
 
 ## 🚀 Funcionalidades
 Cálculo de tensões nas barras (PU e ângulo)
