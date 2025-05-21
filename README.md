@@ -29,16 +29,16 @@ gauss_seidel/      # Implementação do método GS
 newton_raphson/    # Implementação do método NR
 
 README/            # README do projeto  
-```
+
 ## 🔧 Requisitos & Instalação
 bash
+```
+git clone https://github.com/ateniltonjr/NR_and_GS_IEEE_14bus.git
 
-    git clone https://github.com/ateniltonjr/NR_and_GS_IEEE_14bus.git
+cd NR_and_GS_IEEE_14bus
 
-    cd NR_and_GS_IEEE_14bus
-
-    pip install -r requirements.txt
-
+pip install -r requirements.txt
+```
 📊 Como Usar
 
 Prepare os arquivos de entrada na pasta data/
