@@ -15,15 +15,11 @@ Método Gauss-Seidel (implementado)
 Método Newton-Raphson (implementado)
 
 ## 🚀 Funcionalidades
-Cálculo de tensões nas barras (PU e ângulo)
-
-Fluxos de potência ativa e reativa
-
-Cálculo de perdas nas linhas
-
-Visualização de resultados
-
-Entrada/Saída via arquivos Excel
+- Cálculo de tensões nas barras (PU e ângulo)
+- Fluxos de potência ativa e reativa
+- Cálculo de perdas nas linhas
+- Visualização de resultados
+- Entrada/Saída via arquivos Excel
 
 ## 📂 Estrutura do Projeto
 NR_and_GS_IEEE_14bus
