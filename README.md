@@ -6,13 +6,9 @@
 
 ```GUSTAVO HENRIQUE DA HORTA LEAO PEREIRA```
 
-
 ## 🌟 Visão Geral
-Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando dois métodos numéricos para cálculo de fluxo de carga:
-
-Método Gauss-Seidel (implementado)
-
-Método Newton-Raphson (implementado)
+Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando os métodos numéricos
+de Gauss-Seidel e Método Newton-Raphson para cálculo de fluxo de potência.
 
 ## 🚀 Funcionalidades
 - Cálculo de tensões nas barras (PU e ângulo)
