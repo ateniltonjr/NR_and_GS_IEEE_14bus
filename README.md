@@ -8,9 +8,11 @@
 
 
 ## 🌟 Visão Geral
-  Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando dois métodos numéricos para cálculo de fluxo de carga:
-  Método Gauss-Seidel (implementado)
-  Método Newton-Raphson (implementado)
+Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando dois métodos numéricos para cálculo de fluxo de carga:
+
+Método Gauss-Seidel (implementado)
+
+Método Newton-Raphson (implementado)
 
 ## 🚀 Funcionalidades
 - Cálculo de tensões nas barras (PU e ângulo)
@@ -21,7 +23,7 @@
 
 ## 📂 Estrutura do Projeto
 NR_and_GS_IEEE_14bus
-```
+
 gauss_seidel/      # Implementação do método GS
 
 newton_raphson/    # Implementação do método NR
