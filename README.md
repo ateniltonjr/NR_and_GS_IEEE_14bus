@@ -1,5 +1,5 @@
 ![alt text](logo_ufob.png)
-# Power Flow Solver (Gauss-Seidel & Newton-Raphson)
+# Algoritimo de Fluxo de Potência (Gauss-Seidel & Newton-Raphson)
 
 ## 👥 Autores
 ```atenilton Santos de Souza Júnior```
