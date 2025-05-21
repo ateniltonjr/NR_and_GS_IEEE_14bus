@@ -22,13 +22,13 @@ Método Newton-Raphson (implementado)
 - Entrada/Saída via arquivos Excel
 
 ## 📂 Estrutura do Projeto
-NR_and_GS_IEEE_14bus
+### NR_and_GS_IEEE_14bus
 
-gauss_seidel/      # Implementação do método GS
+- gauss_seidel/      # Implementação do método GS
 
-newton_raphson/    # Implementação do método NR
+- newton_raphson/    # Implementação do método NR
 
-README/            # README do projeto  
+- README/            # README do projeto  
 
 ## 🔧 Requisitos & Instalação
 bash
@@ -39,7 +39,7 @@ cd NR_and_GS_IEEE_14bus
 
 pip install -r requirements.txt
 ```
-📊 Como Usar
+## 📊 Como Usar
 
 Prepare os arquivos de entrada na pasta data/
 
