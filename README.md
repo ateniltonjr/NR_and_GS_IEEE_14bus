@@ -4,8 +4,6 @@
 ## 👥 Autores
 ```atenilton Santos de Souza Júnior```
 
-```GUSTAVO HENRIQUE DA HORTA LEAO PEREIRA```
-
 ## 🌟 Visão Geral
 Projeto acadêmico desenvolvido para a disciplina Sistemas de Potência, implementando os métodos numéricos
 de Gauss-Seidel e Método Newton-Raphson para cálculo de fluxo de potência.
